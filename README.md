@@ -11,6 +11,14 @@ https://developer.chatwork.com/ja/
 
 ## Usage ##
 
+Enter the room id and token in config.ini.
+
+```
+[chatwork]
+roomid = XXXXXXXXXXXXXXXXX 
+token  = XXXXXXXXXXXXXXXXX
+```
+
 **Create a task in ChatWork**
 
 ```go
